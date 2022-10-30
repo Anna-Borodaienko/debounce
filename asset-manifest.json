@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/debounce/static/js/main.c884d7c5.js",
+    "index.html": "/debounce/index.html",
+    "main.c884d7c5.js.map": "/debounce/static/js/main.c884d7c5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c884d7c5.js"
+  ]
+}
